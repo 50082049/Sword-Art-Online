@@ -158,10 +158,13 @@ ISL Ragnarok (ISL ラグナロク, ISL Ragunaroku?), or ISL Ragnarök, is an isl
 
 ## Season 1
 <iframe width="790" height="444" src="https://www.youtube.com/embed/ALCLCvNJ7iY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Season 2
 <iframe width="790" height="444" src="https://www.youtube.com/embed/Wyi8ITQBeNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Season 3
 <iframe width="790" height="444" src="https://www.youtube.com/embed/nBg_twKBofU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### the Story
 ## Warning this will have spoilers to the SAO series for those who haent seen the other episodes or first timers.
 In 2022, a virtual reality massively multiplayer online role-playing game (VRMMORPG) called Sword Art Online (SAO) is released. With the NerveGear, a helmet that stimulates the user's five senses via their brain, players can experience and control their in-game characters with their minds. Both the game and the NerveGear were created by Akihiko Kayaba.
