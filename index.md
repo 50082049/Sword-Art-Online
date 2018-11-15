@@ -154,6 +154,14 @@ informally called the Inverted Ice Pyramid (氷の逆ピラミッド, Kōri no G
 ## ISL Ragnarok
 ISL Ragnarok (ISL ラグナロク, ISL Ragunaroku?), or ISL Ragnarök, is an island in Gun Gale Online that serves as the grand stage for the free-for-all finals of the 3rd Bullet of Bullets, during which the thirty finalists are spawned randomly on the island at least a thousand meters apart from each other.[1]
 
+### Season Trailers
+
+## Season 1
+<iframe width="790" height="444" src="https://www.youtube.com/embed/ALCLCvNJ7iY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Season 2
+<iframe width="790" height="444" src="https://www.youtube.com/embed/Wyi8ITQBeNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Season 3
+<iframe width="790" height="444" src="https://www.youtube.com/embed/nBg_twKBofU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### the Story
 ## Warning this will have spoilers to the SAO series for those who haent seen the other episodes or first timers.
 In 2022, a virtual reality massively multiplayer online role-playing game (VRMMORPG) called Sword Art Online (SAO) is released. With the NerveGear, a helmet that stimulates the user's five senses via their brain, players can experience and control their in-game characters with their minds. Both the game and the NerveGear were created by Akihiko Kayaba.
@@ -167,6 +175,7 @@ In the real world, Kazuto discovers that 300 SAO players, including Asuna, remai
 Soon after, at the prompting of a government official investigating strange occurrences in VR, Kazuto takes on a job to investigate a series of murders involving another VRMMORPG called Gun Gale Online (GGO), the AmuSphere (the successor of the NerveGear), and a player called Death Gun. Aided by a female player named Shino "Sinon" Asada, he participates in a gunfight tournament called the Bullet of Bullets (BoB) and discovers the truth behind the murders, which originated with a player who participated in a player-killing guild in SAO. Through his and Sinon's efforts, two suspects are captured, though the third suspect, Johnny Black, escapes.
 
 Kazuto is later recruited to assist in testing an experimental FullDive machine, Soul Translator (STL), which has an interface that is far more realistic and complex than the previous machine he had played to help develop an artificial intelligence for the Ministry of Defense (MOD) named A.L.I.C.E. He tests the STL by entering a virtual reality cyberspace created with The Seed package, named UnderWorld (UW). In the UW, the flow of time proceeds a thousand times faster than in the real world, and Kirito's memories of what happens inside are restricted. However, Black injures Kazuto with suxamethonium chloride. The MOD recovers Kazuto and places him back into the STL to preserve his mind while attempts are made to save him.
+
 
 ## thank you 
 
