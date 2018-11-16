@@ -21,6 +21,8 @@ Kirito is a person with incredibly strong resolve who will do anything and every
 
 After escaping SAO, Kirito attempts to repair his relationship with Suguha, his cousin. This shows Kirito is now attempting to make up for his past mistake of ignoring her, showing a sense of maturity. Kirito, later in the series, is shown to be a calm and mature player who can be teasing as well.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Asuna Yuuki 
 Asuna originally did not care about dying in the game before meeting Kirito. That meeting drastically changed Asuna's personality and outlook on life. She soon takes most things Kirito says to heart and looks to him for help, using him as somewhat of a lifeline.
 
@@ -30,6 +32,8 @@ Asuna, in a similar manner to Kirito, is someone who can be controlled and manip
 
 In ALO, after being saved by Kirito, Asuna's personality had not changed a bit except that she was not as proud as she was in SAO. Her personality began to develop further still after meeting Yuuki in the events of Mother's Rosario. Seeing how Yuuki still moves forward, despite knowing her death is inevitable, Asuna takes after her and resolves to keep moving forward, no matter what happens.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Ayano Keiko AKA-(silica)
 Silica is very kind, bright, cheerful, and supportive of her friends.[citation needed] She also has developed a deep attachment to her Tamed Monster Pina to the point that she was heartbroken to see it die and overjoyed when told that there was a way to revive it.
 
@@ -37,19 +41,29 @@ At some point, Silica had become arrogant due to her fame, but realised her mist
 
 Silica is also easily embarrassed and flustered, especially when it comes to a romance scenario, such as grabbing Kirito's hand, spotting many couples around her, or having her skirt flipped by a monster.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Tsuboi Ryoutarou AKA-(klein)
 Klein is one of the friendliest people in the series and sets the mood when he is around. He never holds grudges against others and is always ready to lend a helping hand. He cares deeply for his friends and always wants to be by their side fighting alongside them when they are in danger even to the point of getting angry when Kirito was fighting Death Gun, saying he should have converted to Gun Gale Online as well. He gets angry when people get into situations that can get them killed since he wants to protect as many people as he can.[citation needed]
 
 Klein is a very loyal person, which is apparent in his friendship with Kirito, despite the latter usually treating him with coldness.[citation needed] Klein is also a "bachelor" and is shown trying to get together with various women in the series, such as Asuna, Freyja, and even Kazuto's sister, whom he had yet to meet.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Shinozaki Rika AKA-(Lizbeth)
 Lisbeth is a very friendly person that can get along with just about everyone she meets. She is hardworking and takes great pride in her abilities as a blacksmith. She will become very defensive and aggressive if someone were to challenge her pride as a blacksmith much like Kirito did after accidentally breaking the best sword she had created. She has a bad temper and can get somewhat violent, such as when she grabbed Kirito by the collar after he broke one of her best swords. Lisbeth is very teasing as well.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Andrew Gilbert Mills AKA-(Agil)
 Agil is a friendly and very helpful person who is always looking out for others. He is also someone to rely on such as when he defended the beta testers against Kibaou, giving Kirito a place to stay, and helping players on lower floors. He also can be a leader on the battlefield and will help his comrades and friends no matter what the cost may be. Although he acted as if he only cared about the money, Kirito commented that Agil had spent all of his money helping mid-level players level up.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Sachi
 Sachi was a timid, apprehensive girl, who feared dying in Sword Art Online. Due to this fear, she had never intended to leave the Town of Beginnings and hated going into battles.[7] She only felt the peace of mind to sleep soundly when she discovered Kirito's true level, which made her feel safe in his presence.[7]
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Kayaba Akihiko AKA-(heatcliff)
 Although Kayaba Akihiko appeared as his true form only a few times throughout the series, he was always very calm, soft-spoken, and had a cool demeanor. Despite being incredibly skilled, Akihiko was not boastful or arrogant, as when Kirito defeated him and cleared Sword Art Online, he humbly accepted defeat.
@@ -60,15 +74,21 @@ Kayaba Akihiko had little to no empathy, with a complete disregard for human lif
 
 In spite of this, Akihiko had a level of honor and fairness. He designed Sword Art Online to be a beatable game by anyone who had the skills. He never interfered with the players' progress to keep them from advancing through the game; in fact, as Heathcliff, he was actually fighting on the players' side, helping them clear floors. The one exception to this was the fact that he made himself invincible until his battle with Kirito, although this was necessary to survive the game until the 95th floor was reached, where Heathcliff planned to reveal his true identity and become the final boss on the 100th floor.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 # Wepons
 
 ## Elucidator
 Elucidator is a pitch black sword with trims of gray and is evenly balanced and quite powerful. It has a black hilt connected to a hand guard that drops down on the right side. Attached to this elongated area of the hand-guard is part of Elucidator's blade so as to better aid the user in retaining their grip on the sword when it is being used. The blade is completely black like the rest of the sword and the said blade is outlined in a light gray.[3] In the design art by the illustrator of the novels, a small cross is emblazoned on the flat of the blade, just beneath the tip.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Dark Repulser
 Dark Repulser is described in the light novels as a pale, one-handed straight sword that is slightly transparent. Its blade is white and slender, though not to the extent of a rapier. The grip is silver, with a slight tinge of blue.[1]
 
 In the anime, Dark Repulser is aqua-colored. Its grip is a darker color than the rest of the blade and is completely straight. It leads up to a crossguard that is exactly perpendicular to the grip and is designed to look like a pair of conjoined dagger blades. At the center of the guard is a large aquamarine gem. The blade itself is a deep aqua color, the base of the blade has a light-aqua attachment that causes the blade to have a natural indentation when one traces its length due to the angle that the attachment bends at.[2]
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 
 ## Karakurenai
@@ -76,14 +96,22 @@ In the anime, Dark Repulser is aqua-colored. Its grip is a darker color than the
 
 Klein used Karakurenai up to and including the clearing of the 75th floor of Aincrad.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Ebon Dagger
 is a one-handed dagger used by Silica in Sword Art Online. It was given to her by Kirito after being rescued from the Drunk Apes in the «Forest of Wandering» on the 35th Floor.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Lambent Light
 was a one-handed rapier owned by Asuna in Sword Art Online (SAO). The rapier was crafted by Lisbeth as a masterpiece of a quality that she could only achieve once every three months.[1] Asuna's rapier, combined with her speed, earned her the nickname «The Flash». The Lambent Light was boosted to +32 by Lisbeth[2] and was Asuna's final weapon in Sword Art Online.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Liberator
  is a weapon set consisting of a one-handed straight sword and a Kite shield in Sword Art Online. The set was owned by the leader of the «Knights of the Blood» guild, Heathcliff, and was used until the end of the game. His «Unique Skill», «Holy Sword», allowed him to freely switch between offense and defense, creating a near impenetrable defense in battle.[citation needed] The sword, when not in use, is attached to inner side of the shield and the shield can also be used to hit targets.
+ 
+ <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 <img src="https://occ-0-990-987.1.nflxso.net/art/bfbb2/f3ed493bb317b75f3cf350a4738ade53636bfbb2.jpg" alt="Trulli" width="700" height="333">
 
@@ -94,14 +122,22 @@ Unlike her cousin Kazuto, Suguha is upbeat and outgoing. She is much more social
 
 Despite her positive outlook and slightly aggressive behavior, Suguha can be somewhat fragile and delicate due to her young age, especially when her cousin, Kazuto is involved. After seeing Kazuto in a comatose state due to being locked in SAO, she broke down crying for the first time in years. In addition to this, once she found out that Kirito and Kazuto were the same person, she locked herself in her room away from her cousin and went into a slight depression. Most of the time she is quick to rebound from these moments and return to being the same upbeat girl.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Alicia Rue
 Alicia Rue (アリシャ・ルー, Arisha Rū?) is the Lord of the Cait Sith race in «ALfheim Online» (ALO). She was elected to the position of leader by popular vote. She formed an alliance with the Sylphs to finish the «Guardians of the World Tree».
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Sakuya
 (サクヤ, Sakuya?) is the Lord of the Sylph race in ALfheim Online and an exceptional swordswoman. She was elected as the leader of the Sylph race by popular vote (80% voice of the vote[2]). Her statistics are not very high due to her status as a Lord not allowing her to do much training. Despite her low stats, she is a formidable opponent in the Sylph dueling tournaments.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Eugene
 During Eugene's duel with Kirito it was revealed that Eugene is interested in fighting strong opponents, as, after Kirito withstood thirty seconds in battle with him, Eugene claimed that he changed the plan to have their duel changed to a deathmatch as he really wanted to cut Kirito down.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Sugou Nobuyuki AKA-(Oberon)
 Nobuyuki hides his true personality, especially in front of Asuna's father but shows his true colors to Kazuto as soon as they were left alone. Nobuyuki is an amoral and greedy entrepreneur, having kidnapped 300 players from SAO for his experiment on manipulating the human mind, which he planned to sell to other companies. Nobuyuki also has a habit of framing others for his problems, especially Kayaba as he felt that he was the source of all of his problems.
@@ -110,8 +146,12 @@ Nobuyuki also viewed himself as a god that could get anything he wanted, viewing
 
 Unlike Akihiko, however, Nobuyuki is a poor fighter, as when he tried to attack Kirito after the latter had given him the strongest weapon in ALO, Kirito parried with ease. Nobuyuki also has low tolerance for pain; even a slice on the cheek was enough to make him panic.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Konno Yuuki
 Yuuki was a kind of person who is willing to live her life to the fullest even in her critical condition, when she died peacefully in happiness. She believed some things must be done in forceful means for the other party to understand.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 # GGO
 
@@ -122,6 +162,8 @@ Shino, however, can be a fragile-minded character. This is due to her childhood 
 
 Shino is shown to have an uncommonly kind heart. Not only was she willing to forgive Shinkawa Kyouji, but still cared for him as a friend to the extent that she resolved to visit him in prison to try and help, if not save him as a person.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Shinkawa Shouichi AKA-(Deathgun)
 Shouichi is a cold and sadistic person who believed in PoH's principles, thus he enjoys killing other players, even with full knowledge that they would be killed in real life as well. It was later revealed that Shouichi enjoyed killing other players because he enjoyed the feeling of being feared by others.[1]
 
@@ -130,6 +172,8 @@ As Shouichi's father did not have any expectations for him due to him being frai
 After the death game had ended, Shouichi took his brother's Kyouji's advice and started playing Gun Gale Online. Shouichi spent time on the streets observing other players and imagining ways of killing them. While playing Gun Gale Online under the advice of his brother Kyouji, Shouichi did not battle monsters, but instead observed other players while thinking of ways to kill them. After obtaining his camouflage mantle, he practiced ways of obscuring himself from others, feeling that it was interesting to tail someone from behind. After he managed to find out the real life addresses of several players by tailing them when they inputted their personal information in the presidential estate of SBC Glocken, he and his brother came up with a plot to continue killing people in the real world, supposedly via the use of a «Death Gun» in-game.
 
 Shouichi has an amazing memory, as he was able to remember players' addresses and then write them down when he logged off.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Shinkawa Kyouji
 On November 9, 2025, Kyouji logged into Gun Gale Online as Sterben, his brother's avatar, to watch XeXeeD's appearance on MMO Stream's This Week's Winners program from a bar in SBC Glocken. Quietly incensed at XeXeeD's mocking of GGO players with agility-focused avatars, Sterben restrained himself for a few minutes before walking directly under the pub's holo-panel broadcasting the channel. Having withdrawn a Type 54 "Black Star" from its holster, loaded the gun, and pointed it at the screen, he condemned XeXeeD for his actions and declared he would judge him with his true power. At exactly 11:30:02, having performed the sign of the cross, he fired the handgun at XeXeeD's image on the holo-TV. When XeXeeD abruptly disconnected thirteen seconds later, Sterben proclaimed this was a demonstration of true strength and true power, naming himself and his weapon as Death Gun, before logging off in triumph.
@@ -146,46 +190,69 @@ While Kyouji showed no signs of consciousness, Shino ran to the door and unlocke
 
 During Kazuto and Shino's conversation with Kikuoka Seijirou several days later, the Death Gun incident was summarised. Kyouji, along with his brother, Shinkawa Shouichi, and another Laughing Coffin member, Kanamoto Atsushi (Johnny Black), planned to kill players in the real world, allegedly by killing them in the virtual world. As nobody believed in the deaths of XeXeeD and Usujio Tarako, his brother entered the Bullet of Bullets tournament under the name «Sterben» to make the rest of the world believe in their supposed killing ability, while in reality, Kyouji and Atsushi would inject the players in the real world with a syringe filled with succinylcholine, which stopped the heart. They had obtained the address by watching players type in their real addresses, while hiding under a «Metamaterial Optical Camouflage mantle», during the BoB registration process.  
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 # Wepons
 
 # ALO
 
 ## Black Iron Great Sword
 Kirito's great sword is about as tall as his Spriggan form, nearly touching the ground when sheathed along his backside. The hilt is a medium-gray color with an oval-shaped pommel that leads up to the hand-guard, which takes the appearance of a crescent-shape with a line going horizontal with two circles on the hand-guard. The blade seems to have a triangular shape as its wide near the hilt and shortens out into a sharp point at the tip and is double-edged.
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Demonic Sword Gram
 is the second strongest legendary sword in «ALfheim Online» (ALO), surpassed only by the legendary «Holy Sword Excalibur». Gram is currently owned by the Salamander «General Eugene», who was considered to be the strongest player in ALO.[1] In order to wield this sword, it is said that the wielder needs to have a Two-Handed Sword skill level of at least 950.[2]
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Long Sword
 Kirito's black sword was forged by Lisbeth using a rare metal found in Jötunheimr and is one of her best masterpieces.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Blue Long Sword
 unnamed secondary sword in ALfheim Online. The sword was wielded along with Kirito's unnamed black long sword during the events of Calibur. It was later replaced by the «Holy Sword Excalibur».
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Crest of Yggdrasil
 The Crest of Yggdrasil is a tree branch about 1.5 meters in length.[1] The bark of the branch is smooth and it draws a spiral near its tip.[1] Two large leaves glitter at the staff's tip.[1]
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 # GGO
 
 ## PGM Ultima Ratio Hecate II
  is a long-ranged sniper rifle used by Sinon in Gun Gale Online.
  
+ <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+ 
 ## FN Five-Seven
 is a semi-automatic handgun that Kirito uses as his secondary weapon in Gun Gale Online.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Kagemitsu G4
 is a photon sword (フォトンソード, Foton Sōdo?) sold for 150,000 credits in Gun Gale Online. The sword is alternatively referred to as a «Kouken» (光剣こうけん, Kōken?, lit. "light sword"), laser blade, lightsaber or beam sabre.
 
 A black Kagemitsu G4 with a purplish-blue energy blade[1] was purchased by Kirito and has been left in the possession of Sinon since after the third Bullet of Bullets.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Accuracy International L115A3
 nicknamed as «Silent Assassin» (沈黙の暗殺者サイレント・アサシン, Sairento Asashin?) by the players, is a rare sniper equipped with a silencer that is used by Sterben in Gun Gale Online to stun his targets from afar before going in to stage a murder with his Type 54 "Black Star".
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 ## Type 54 "Black Star"
 is a handgun used by Sterben in Gun Gale Online. A real life version of the gun was also used by Asada Shino, who took the weapon from a robber and shot him with his own gun.
 
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
 ## Starship Metal Estoc
 refers to an unnamed, player-crafted long dagger in the shape of an estoc that is owned by «Sterben» (Death Gun) in Gun Gale Online.
+
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 # Places and locations
 
