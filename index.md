@@ -62,8 +62,30 @@ In spite of this, Akihiko had a level of honor and fairness. He designed Sword A
 
 # Wepons
 
+## Elucidator
+Elucidator is a pitch black sword with trims of gray and is evenly balanced and quite powerful. It has a black hilt connected to a hand guard that drops down on the right side. Attached to this elongated area of the hand-guard is part of Elucidator's blade so as to better aid the user in retaining their grip on the sword when it is being used. The blade is completely black like the rest of the sword and the said blade is outlined in a light gray.[3] In the design art by the illustrator of the novels, a small cross is emblazoned on the flat of the blade, just beneath the tip.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBtcsSSmlN3s-m5APKKPTzvY02VTE7CaHSs3ruEBo9kfKCiyLUQ" alt="Italian Trulli"width="900" height="333">
+## Dark Repulser
+Dark Repulser is described in the light novels as a pale, one-handed straight sword that is slightly transparent. Its blade is white and slender, though not to the extent of a rapier. The grip is silver, with a slight tinge of blue.[1]
+
+In the anime, Dark Repulser is aqua-colored. Its grip is a darker color than the rest of the blade and is completely straight. It leads up to a crossguard that is exactly perpendicular to the grip and is designed to look like a pair of conjoined dagger blades. At the center of the guard is a large aquamarine gem. The blade itself is a deep aqua color, the base of the blade has a light-aqua attachment that causes the blade to have a natural indentation when one traces its length due to the angle that the attachment bends at.[2]
+
+
+## Karakurenai
+ is the curved katana used by the guild leader of «Fuurinkazan», Klein. This sword uses the «Katana» Extra Skill, which is unlocked by training the «Curved Sword» skill and sufficiently.
+
+Klein used Karakurenai up to and including the clearing of the 75th floor of Aincrad.
+
+## Ebon Dagger
+is a one-handed dagger used by Silica in Sword Art Online. It was given to her by Kirito after being rescued from the Drunk Apes in the «Forest of Wandering» on the 35th Floor.
+
+## Lambent Light
+was a one-handed rapier owned by Asuna in Sword Art Online (SAO). The rapier was crafted by Lisbeth as a masterpiece of a quality that she could only achieve once every three months.[1] Asuna's rapier, combined with her speed, earned her the nickname «The Flash». The Lambent Light was boosted to +32 by Lisbeth[2] and was Asuna's final weapon in Sword Art Online.
+
+## Liberator
+ is a weapon set consisting of a one-handed straight sword and a Kite shield in Sword Art Online. The set was owned by the leader of the «Knights of the Blood» guild, Heathcliff, and was used until the end of the game. His «Unique Skill», «Holy Sword», allowed him to freely switch between offense and defense, creating a near impenetrable defense in battle.[citation needed] The sword, when not in use, is attached to inner side of the shield and the shield can also be used to hit targets.
+
+<img src="https://occ-0-990-987.1.nflxso.net/art/bfbb2/f3ed493bb317b75f3cf350a4738ade53636bfbb2.jpg" alt="Trulli" width="700" height="333">
 
 # ALO
 
